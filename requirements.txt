@@ -1,0 +1,6 @@
+streamlit
+praw
+python-dotenv
+groq
+fpdf2
+requests
