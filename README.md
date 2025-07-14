@@ -34,15 +34,15 @@ This application scrapes Reddit user activity (posts and comments), summarizes i
 
 ### 🔵 1
 
-![Input Screenshot](images/screenshots1.png)
+![Input Screenshot](images/screenshot1.png)
 
 ### 🟢 2
 
-![Summary Screenshot](images/screenshots2.png)
+![Summary Screenshot](images/screenshot2.png)
 
 ### ⚙️ 3
 
-![Profile Display Screenshot](images/screenshots3.png)
+![Profile Display Screenshot](images/screenshot3.png)
 
 ---
 
